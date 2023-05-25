@@ -10,11 +10,11 @@
     margin-bottom: 50px;
 }
 .input-group {
-    width: 70% !important;
+    width: 100% !important;
 }
 .d-grid.gap-2 {
     margin-top: 20px;
-    width: 70%;
+    width: 100%;
 }
 button.btn.btn-primary {
     background: #14AE5C;
