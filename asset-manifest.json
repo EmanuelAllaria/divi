@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/divi/static/css/main.c6cb4ca1.css",
+    "main.js": "/divi/static/js/main.d3cb7519.js",
+    "static/js/787.980c40fc.chunk.js": "/divi/static/js/787.980c40fc.chunk.js",
+    "static/media/bg-1.jpg": "/divi/static/media/bg-1.1ec21eb171da40263978.jpg",
+    "static/media/logo.svg": "/divi/static/media/logo.aa9ee1e62d5a01ff26eb78bf1e06f0d9.svg",
+    "index.html": "/divi/index.html",
+    "main.c6cb4ca1.css.map": "/divi/static/css/main.c6cb4ca1.css.map",
+    "main.d3cb7519.js.map": "/divi/static/js/main.d3cb7519.js.map",
+    "787.980c40fc.chunk.js.map": "/divi/static/js/787.980c40fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6cb4ca1.css",
+    "static/js/main.d3cb7519.js"
+  ]
+}
